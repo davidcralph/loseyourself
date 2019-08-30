@@ -2,9 +2,9 @@
 Lose yourself, programmer edition. Based on a tweet by [@kvlly](https://twitter.com/kvlly)!
 
 ## About
-Someone linked me [this](https://twitter.com/kvlly/status/1167214748225720325) tweet by @kvlly on Discord. After some researching, I found a comment by [dusty-trash](https://www.reddit.com/user/dusty-trash) on Reddit saying ``Someone should a github page for this and allow everyone to commit to it. !remind me 2 days``.
+Someone linked me [this](https://twitter.com/kvlly/status/1167214748225720325) tweet by [@kvlly](https://twitter.com/kvlly) on Discord. After some researching, I found a comment by [dusty-trash](https://www.reddit.com/user/dusty-trash) on a [Reddit](https://www.reddit.com/r/ProgrammerHumor/comments/cxcc89/eminem_codes) post saying ``Someone should a github page for this and allow everyone to commit to it. !remind me 2 days``.
 
-Here's the GitHub page. Feel free to open pull requests to fix/add lyrics or improve documentation! Pull requests will be merged depending on like/dislike ratio!
+Here's the GitHub page. Feel free to open pull requests to fix/add lyrics or improve documentation. Pull requests will be merged depending on like/dislike ratio!
 
 <!-- Add your lyrics below -->
 ## Lyrics

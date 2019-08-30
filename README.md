@@ -2,10 +2,7 @@
 Lose yourself, programmer edition. Based on a tweet by @kvlly!
 
 ## About
-Someone linked me [this](https://twitter.com/kvlly/status/1167214748225720325) tweet by @kvlly on Discord. After some researching, I found a comment by dusty-trash on Reddit saying ``
-Someone should a github page for this and allow everyone to commit to it.
-
-!remind me 2 days``
+Someone linked me [this](https://twitter.com/kvlly/status/1167214748225720325) tweet by @kvlly on Discord. After some researching, I found a comment by [dusty-trash](https://www.reddit.com/user/dusty-trash) on Reddit saying ``Someone should a github page for this and allow everyone to commit to it. !remind me 2 days``.
 
 Here's the GitHub page. Pull requests will be merged depending on like/dislike ratio!
 

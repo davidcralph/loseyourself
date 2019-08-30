@@ -1,5 +1,5 @@
 # loseyourself
-Lose yourself, programmer edition. Based on a tweet by @kvlly!
+Lose yourself, programmer edition. Based on a tweet by [@kvlly](https://twitter.com/kvlly)!
 
 ## About
 Someone linked me [this](https://twitter.com/kvlly/status/1167214748225720325) tweet by @kvlly on Discord. After some researching, I found a comment by [dusty-trash](https://www.reddit.com/user/dusty-trash) on Reddit saying ``Someone should a github page for this and allow everyone to commit to it. !remind me 2 days``.

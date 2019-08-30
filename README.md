@@ -55,6 +55,23 @@ You better lose yourself in the code, put all on the hold
 You wrote it, but the module you don't own it
 You get only one commit, better not miss it
 This development comes ones in a lifetime you better
+
+You better lose yourself in the code, put all on the hold
+You wrote it, but the module you don't own it
+You get only one commit, better not miss it
+This development comes ones in a lifetime you better
+
+[u/DrunkTankGunner]
+Good code escapes him, security flaws that are gapin’
+His user’s yours for the taking, makes you think
+As we toward a-nother preorder
+Test writin’s borin’, but coffee’s pourin’,
+Sunrise till early mornin’, stayin’ up only grows harder,
+Pot grows hotter, he blows but then spills it all over
+His clothes, it’s all on em, a bitter roast shows,
+He’s known as a crap coder, janky codes,
+Only he knows, what the logic is
+But what he can’t decode are his wife and kids.
 ```
 
 ## License
